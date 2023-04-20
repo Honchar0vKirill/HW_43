@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+p{
+    font-size: large;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
